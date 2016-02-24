@@ -1,0 +1,458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 2129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 10185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 5671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/menu.js",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/footer.html",
+			"settings":
+			{
+				"buffer_size": 1172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1014,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3466,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_includes/header.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/index.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/blog.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/about-luke.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_posts/2015-11-30-2015-Recap.markdown",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_includes/head.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_layouts/post.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_sass/_layout.scss",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_includes/footer.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_site/js/chartist.min.js",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_sass/_base.scss",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar/_site/PicklesOfWar.sublime-workspace",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar-New/_includes/head.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar-New/_sass/_layout.scss",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar-New/_includes/header.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar-New/_layouts/default.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar-New/index.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar-New/_includes/footer.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar-New/node_modules/ie10viewport",
+		"/Users/lukeweatherlow/Desktop/pharmdjd/package.json",
+		"/Users/lukeweatherlow/Desktop/pharmdjd/Gruntfile.js",
+		"/Users/lukeweatherlow/Desktop/pharmdjd/.jshintrc",
+		"/Users/lukeweatherlow/Desktop/pharmdjd/tasks/copy.js",
+		"/Users/lukeweatherlow/Desktop/rssfeed-example/FeedEk_demo.html",
+		"/Users/lukeweatherlow/Desktop/rssfeed-example/js/FeedEk.js",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/_layouts/subpage.html",
+		"/Users/lukeweatherlow/Desktop/PicklesofWar_old/biography.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/_layouts/post.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/biography/index.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/_config.yml",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/_includes/head.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/_includes/footer.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/_includes/header.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/services/index.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/contact/index.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/index.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/_includes/slider.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/css/layout.css",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/send_form_email.php",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/biography.html",
+		"/Users/lukeweatherlow/Desktop/PicklesOfWar/_includes/ticker.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    <",
+			"#364a5c",
+			".nav-sidebar > li > a",
+			"max-width:767",
+			"navbar-default",
+			".navbar-default",
+			".work",
+			"work",
+			"h3",
+			".work h3",
+			"work",
+			"h1, h2",
+			"\n<",
+			"nav",
+			".nav>li>a:focus, .nav>li>a:hover ",
+			"pacif",
+			"http://rss.cnn.com/rss/edition.rss\n",
+			"\">\n",
+			"}}/",
+			"easing",
+			"\"javascripts/",
+			"stylesheets/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_includes/header.html",
+					"settings":
+					{
+						"buffer_size": 2129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/_layout.scss",
+					"settings":
+					{
+						"buffer_size": 10185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3060,
+								3067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2453.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.scss",
+					"settings":
+					{
+						"buffer_size": 5671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4670,
+								4670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3345.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/menu.js",
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_includes/footer.html",
+					"settings":
+					{
+						"buffer_size": 1172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1157,
+								1157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_includes/head.html",
+					"settings":
+					{
+						"buffer_size": 1014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3068,
+								3068
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 730.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}

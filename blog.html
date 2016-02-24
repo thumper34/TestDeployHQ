@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>About Luke Weatherlow</title>
+  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+  <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="icon" type="image/png" href="/images/favicon.png">
+  <link rel="canonical" href="http://yourdomain.com/blog.html">
+  <link rel="alternate" type="application/rss+xml" title="Your awesome title" href="/feed.xml" />
+</head>
+
+
+  <body>
+
+    <div class="container-fluid main-cn">
+    <nav class="navbar navbar-default">
+        <div class="visible-xs headContact">
+            <img class="bio" src="/images/luke-weatherlow.png" alt="Luke Weatherlow" title="Luke Weatherlow">
+            <h3 class="bio">Luke Weatherlow</h3>
+            <h4 class="bio">Web Developer</h4>
+        </div>
+        <div class="navbar-header hidden-lg hidden-md">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            
+        </div>
+        <div class="col-sm-3 col-md-2 sidebar" id="bs-example-navbar-collapse-1">
+            <div class="hidden-xs">
+                <img class="bio" src="/images/luke-weatherlow.png" alt="Luke Weatherlow" title="Luke Weatherlow">
+                <h3 class="bio">Luke Weatherlow</h3>
+                <h4 class="bio">Web Developer</h4>
+            </div>
+            <ul class="nav nav-sidebar">
+                <li ><a href="/index.html"><i class="fa fa-empire"></i> Home</a></li>
+                <li ><a href="/about-luke.html"><i class="fa fa-question-circle"></i> About</a></li>
+                <li ><a href="/portfolio.html"><i class="fa fa-diamond"></i> Portfolio</a></li>
+                <li  class="active"><a href="/blog.html"><i class="fa fa-newspaper-o"></i> Blog</a></li>
+                <li ><a href="/services.html"><i class="fa fa-wrench"></i> Services</a></li>
+                <li ><a href="/contact.html"><i class="fa fa-envelope"></i> Contact</a></li>
+            </ul>
+    </nav>
+    </div>
+</div>
+    <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+    <div class="page-content">
+        <div class="subpage">
+  <div class="col-md-12 case-study">
+    <div class="col-md-12 quote">
+        <h2>Blog</h2>
+        <p>Web Development News and Personal Updates That I Find Important.</p>
+    </div>
+    <div class="col-md-12 about-me">
+      <div class="posts">
+        
+        <article class="post">
+        <h2><a href="/web/development/2015/11/30/2015-Recap.html">2015 Web Development Recap</a></h2>
+        <div class="entry">
+          <p>Learning new frameworks such as AngularJS, JavaScript in general, and doubling my freelance income this year has left me exhausted and at times overwhelmed… but I LOVED it! It always seems like no matter how much we learn, there is still so much we have not had time to digest. When it comes to Web Development technologies, they are moving at such breakneck speeds that my nights and weekends are spent trying to figure out what works the best for future projects. </p>
+
+
+        </div>
+      <a href="/web/development/2015/11/30/2015-Recap.html" class="read-more">Read More</a>
+    </article>
+  
+</div>
+      
+    </div>
+  </div>
+</div>
+<script src="js/chartist.min.js"></script>
+<script>
+// Pie Chart of Time
+var data = {
+  labels: ['Managing', 'Planning', 'Development', 'Design'],
+  series: [45, 15, 25, 15]
+};
+
+var options = {
+  labelInterpolationFnc: function(value) {
+    return value[0]
+  }
+};
+
+var responsiveOptions = [
+  ['screen and (min-width: 640px)', {
+    chartPadding: 30,
+    labelOffset: 100,
+    labelDirection: 'explode',
+    labelInterpolationFnc: function(value) {
+      return value;
+    }
+  }],
+  ['screen and (min-width: 1024px)', {
+    labelOffset: 50,
+    chartPadding: 30
+  }]
+];
+
+new Chartist.Pie('.ct-chart', data, options, responsiveOptions);
+
+// Line Graph of Coffee
+new Chartist.Line('.ct-chart2', {
+  labels: ['Protein Shake', 'Coffee 1', 'Water', 'Coffee 2', 'Water'],
+  series: [
+    [6, 8, 7, 10, 8]
+  ]
+}, {
+  fullWidth: true,
+  chartPadding: {
+    right: 40
+  }
+});
+      </script>
+
+    </div>
+  
+    <footer class="site-footer">
+
+    <div class="col-md-12 powered-by">
+            <img class="powered" src="/images/jekyll.png">
+            <img class="powered" src="/images/ruby.png">
+            <img class="powered" src="/images/bootstrap.png">
+    </div>
+    <div class="col-md-12 copyright">
+            <a href="mailto:luke@picklesofwar.com"><i class="fa fa-question"></i></a> <a href="http://www.linkedin.com/in/lukeweatherlow" target="_blank"><i class="fa fa-linkedin"></i></a> <a href="https://github.com/thumper34/" target="_blank"><i class="fa fa-github"></i></a> <strong>&copy;</strong> Luke Weatherlow.
+    </div>
+</div>
+</footer>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/node_modules/ie10viewport.js"></script>
+    <script src="/js/menu.js"></script>
+
+</div>
+  </body>
+
+</html>

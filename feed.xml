@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Jan 2016 22:23:31 -0500</pubDate>
+    <lastBuildDate>Sun, 10 Jan 2016 22:23:31 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>2015 Web Development Recap</title>
+        <description>&lt;p&gt;Learning new frameworks such as AngularJS, JavaScript in general, and doubling my freelance income this year has left me exhausted and at times overwhelmed… but I LOVED it! It always seems like no matter how much we learn, there is still so much we have not had time to digest. When it comes to Web Development technologies, they are moving at such breakneck speeds that my nights and weekends are spent trying to figure out what works the best for future projects. &lt;/p&gt;
+
+&lt;p&gt;This made me come to a decision halfway through the year… I do not want to know 100 different programming languages or skills, I want 5 extremely strong skills that I am an expert at. I’ve chosen these to be php, JavaScript, AngularJS, NodeJS and React. From this list you can tell that I am focusing more on Front End Development than backend portions. This is mainly due to the fact that I love being able to rapidly develop and deploy new ideas around already proven databases such as MySQL. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;CodeSchool - Becoming a Well Rounded Web Jedi&lt;/h3&gt;
+&lt;p&gt;I’ve used HTML, CSS, and basic JavaScript for almost 10 years but wanted to fill the spaces in my knowledge. So I took all of CodeSchool’s HTML/CSS courses. This included Front-end Foundations, Front-end Formations, CSS Cross-Country, Journey Into Mobile, Adventures in Web Animations, Unmasking HTML Emails, Assembling Sass Part 1 &amp;amp; 2, Blasting Off with Bootstrap and the Fundamentals of Design. With all of these completed I have all the badges seen below &lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/448/course-complete-81fb30908f005de5c75e5376d041f05f.png&quot; alt=&quot;Front-end Foundations&quot; title=&quot;Front-end Foundations&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/315/completed-front-end-formations-165329e44a56cd6d401c0c60369d368e.png&quot; alt=&quot;Front-end Formulations&quot; title=&quot;Front-end Formulations&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/40/completed-css-cross-country-ec9a9aa14797031680577e7a986bef75.png&quot; alt=&quot;CSS Cross-Country&quot; title=&quot;CSS Cross-Country&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/102/completed-journey-into-mobile-9c1cfe569a838cc2acd84afc47712674.png&quot; alt=&quot;Journey Into Mobile&quot; title=&quot;Journey Into Mobile&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/525/adventures-in-web-animations-ddb801dc0f6e1c033511311fa0eddece.png&quot; alt=&quot;Adventures in Web Animations&quot; title=&quot;Adventures in Web Animations&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/505/course-complete-ff3bc01bb1609ae6d0d0c4057c9822d9.png&quot; alt=&quot;Unmasking HTML Emails&quot; title=&quot;Unmasking HTML Emails&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/146/completed-assembling-sass-18b0ff2185f670f8cc1de4a8034b53b9.png&quot; alt=&quot;Assembling SASS I&quot; title=&quot;Assembling SASS I&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/177/completed-assembling-sass-part-2-f0396c24666f2e57291fcb591d5660e6.png&quot; alt=&quot;Assembling SASS II&quot; title=&quot;Assembling SASS II&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/481/course-complete-0920f3daf574016a49db7991228d99bf.png&quot; alt=&quot;Blasting Off with Bootstrap&quot; title=&quot;Blasting Off with Bootstrap&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/277/completed-fundamentals-of-design-b9f4f4d4ff73f8a9fdff2043a223404e.png&quot; alt=&quot;Fundamentals of Design&quot; title=&quot;Fundamentals of Design&quot; /&gt;
+&lt;img class=&quot;codeschool&quot; src=&quot;https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/296/completed-javascript-road-trip-part-1-b9f5af5196fb596271f7f97b6b477d24.png&quot; alt=&quot;JavaScript Road Trip Part 1&quot; title=&quot;JavaScript Road Trip Part 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, I started taking the JavaScript courses which I am about 1/3 of the way through. This was important as almost all of the frameworks I’m trying to learn are JavaScript based. Having an increased understanding of JavaScript will help me become a better developer as well as round out my skills a bit more. I already use JavaScript on a daily basis but it is all bits and pieces of learning it on my own and it needs a bit more of a foundation. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Documentation - Experienced Team Leader&lt;/h3&gt;
+&lt;p&gt;This year I learned about the importance of documenting what I did (what did you do? Explain specifics on what needs documented) so that others could do it the same way. Examples of this are go-live checklists, step-by-step guides for certain development tasks and overall design concepts we use. By properly documenting what steps I take, it makes it so much easier to explain it to new hires and other developers. This also means that less experienced developers can take more off my plate so that I can focus on the bigger tasks/issues that clients face. &lt;/p&gt;
+&lt;p&gt;The documentation was created using checklists in wrike.com that can be duplicated for each project as well as PrismJS for all coding samples. I highly recommend PrismJS for any development tasks that need to be shown. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;I Took Less Freelance Projects and My Income Went Up (WTF?)&lt;/h3&gt;
+&lt;p&gt;I rarely took a website project that was less than 1k, not because I want more money necessarily but because I wanted enough time to do a good job. This meant I spent more time building up my long term client base instead of doing smaller one off jobs that never turn out as good as they could have been. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;I Read Some Great Business Books&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer &lt;/li&gt;
+	&lt;li&gt;Manage Your Day-to-Day: Build Your Routine, Find Your Focus, and Sharpen Your Creative Mind (The 99U Book Series) &lt;/li&gt;
+	&lt;li&gt;Maximize Your Potential: Grow Your Expertise, Take Bold Risks &amp;amp; Build an Incredible Career (The 99U Book Series) &lt;/li&gt;
+	&lt;li&gt;The Invisible Organization: How Ingenious CEOs are Creating Thriving, Virtual Companies &lt;/li&gt;
+	&lt;li&gt;Reality Check: The Irreverent Guide to Outsmarting, Outmanaging, and Outmarketing Your Competition &lt;/li&gt;
+	&lt;li&gt;How to Win Friends &amp;amp; Influence People &lt;/li&gt;
+	&lt;li&gt;Rework: Change The Way You Work Forever &lt;/li&gt;
+	&lt;li&gt;The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich &lt;/li&gt;
+	&lt;li&gt;The Lean Startup &lt;/li&gt;
+	&lt;li&gt;The Pumpkin Plan: A Simple Strategy to Grow a Remarkable Business in Any Field &lt;/li&gt;
+	&lt;li&gt;Profit First: A Simple System to Transform Any Business from a Cash-Eating Monster to a Money-Making Machine. &lt;/li&gt;
+	&lt;li&gt;The Toilet Paper Entrepreneur: The tell-it-like-it-is guide to cleaning up in business &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Almost all of these books had the same overall ideas:&lt;/h4&gt;
+&lt;ol&gt;
+	&lt;li&gt;Do amazing work&lt;/li&gt;
+	&lt;li&gt;Treat your clients right&lt;/li&gt;
+	&lt;li&gt;Don’t be afraid to fail&lt;/li&gt;
+	&lt;li&gt;Don’t be afraid to fire a client&lt;/li&gt;
+	&lt;li&gt;Don’t be afraid!&lt;/li&gt;
+	&lt;li&gt;A great idea is only good when smart actions are applied&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;I redeveloped my portfolio website PicklesofWar.com from the ground up using Bootstrap 4.0 and Jekyll. &lt;/h3&gt;
+&lt;p&gt;This was one of the best decisions I made on a personal level because it introduced me to Jekyll and how amazing static site generators are from a speed/time standpoint. Older websites took far longer to develop due to the fact that each page was its own separate entity. Jekyll allowed me to breakup the site into chunks and dynamically generate each page after each change. It still remains HTML as well so it is fast and does not require any databases. The only downside was setting up some of the tools on my PC vs Mac as they work slightly different. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Things That Fell Off - 2015&lt;/h3&gt;
+&lt;h4&gt;Blogging&lt;/h4&gt;
+&lt;p&gt;You will notice that I have almost ZERO new blog posts… I was so busy doing other client work and learning that I did not sit down to write anything besides basic ideas. This needs to change, especially if I want to be seen as a successful web developer. &lt;/p&gt;
+&lt;h4&gt;Networking Events&lt;/h4&gt;
+&lt;p&gt;I went to a few networking events this year, mainly due to wanting to spend time with my daughter. I feel like I could have gone to a couple more, even if it meant skipping the gym (this rarely happens!). &lt;/p&gt;
+&lt;h4&gt;Overall&lt;/h4&gt;
+&lt;p&gt;This was the best year of my life, hands down. I learned and did more work than I ever thought possible, helped clients grow their businesses, and also grew my own business by applying my time more intelligently. &lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 30 Nov 2015 17:29:17 -0500</pubDate>
+        <link>http://yourdomain.com/web/development/2015/11/30/2015-Recap.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/development/2015/11/30/2015-Recap.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
